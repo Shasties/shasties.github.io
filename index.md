@@ -11,12 +11,12 @@ I like automating things. Creating pipelines, setting up artifact repositories, 
 
 # What are you working on now?
 I am currently working on two main projects:
-1.  A tool to modify Catherine Classic levels. Right now, eveything has to be done in a hex editor. Would be ideal to add some sort of 3D gui. 
+1.  A tool to modify Catherine Classic levels. Right now, eveything has to be done in a hex editor. It would be ideal to add some sort of 3D gui. 
 1. A webapp for modern fgc analytic data. There are numerous sites like [braacket](https://braacket.com/) where you can import tournaments and keep track of who won/loss and calculate ELO. This is all you really need in a traditional game like chess, but modern fighting games have more dynamic variables like stage and character selection that would also be nifty to track.
 
 Less technical projects include:
-1. A murder mystery visual novel (this may turn into a traditional novel)
-1. A game about Paul Bunyan in RPG Maker
+1. Finish this murder mystery I've been writing on and off.
+1. Get back into Go. I have had a long term goal to reach a rank of 1 dan, which is a decent competitive rank!
 
 # What are some of your past projects?
 * [A python app to quickly swap characters and textures in Catherine Classic](https://github.com/Shasties/catherine_character_mods)
